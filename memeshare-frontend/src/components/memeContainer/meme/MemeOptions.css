@@ -1,0 +1,8 @@
+/* .EditMeme {
+    padding :2px
+} */
+
+#editMemeButton {
+    display : flex;
+    justify-content: flex-end;
+}
